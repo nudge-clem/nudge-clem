@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Clem
+- 👋 Hi, I’m Clem
 - 👀 I’m interested in making things go 💥 at @nudge-global
 - 🌱 I’m currently learning the nudge stack
 
